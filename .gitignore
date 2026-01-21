@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+
+# React
+build/
+*.log
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
